@@ -282,7 +282,7 @@ dinsty/
 * **Python**
 * **Webots**
 * **Robotics Simulation**
-* **A* Pathfinding**
+* **A * Pathfinding**
 * **Autonomous Navigation**
 * **Obstacle Avoidance**
 * **Path Planning**
